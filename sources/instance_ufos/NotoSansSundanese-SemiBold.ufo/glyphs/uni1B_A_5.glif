@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1BA5" format="2">
+  <unicode hex="1BA5"/>
+  <outline>
+    <contour>
+      <point x="-494.1764705882353" y="-248.0" type="line"/>
+      <point x="-424.0" y="-248.0" type="line"/>
+      <point x="-344.2549019607843" y="-45.86274509803921" type="line"/>
+      <point x="-546.7843137254902" y="-45.86274509803921" type="line"/>
+      <point x="-546.7843137254902" y="-106.49019607843137" type="line"/>
+      <point x="-439.37254901960785" y="-106.49019607843137" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/22 18:38:22</string>
+    </dict>
+  </lib>
+</glyph>

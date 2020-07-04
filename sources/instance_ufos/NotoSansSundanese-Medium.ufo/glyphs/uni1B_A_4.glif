@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1BA4" format="2">
+  <unicode hex="1BA4"/>
+  <outline>
+    <contour>
+      <point x="-230.8235294117647" y="752.1176470588235" type="line"/>
+      <point x="-146.84313725490196" y="971.2745098039215" type="line"/>
+      <point x="-364.11764705882354" y="971.2745098039215" type="line"/>
+      <point x="-364.11764705882354" y="918.5686274509804" type="line"/>
+      <point x="-233.05882352941177" y="918.5686274509804" type="line"/>
+      <point x="-269.05882352941177" y="828.1372549019608" type="line"/>
+      <point x="-366.11764705882354" y="841.9803921568628" type="line"/>
+      <point x="-376.52941176470586" y="790.5294117647059" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/22 17:25:21</string>
+    </dict>
+  </lib>
+</glyph>

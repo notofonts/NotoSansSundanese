@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B94" format="2">
+  <advance width="728.6862745098039"/>
+  <unicode hex="1B94"/>
+  <outline>
+    <contour>
+      <point x="159.86274509803923" y="0.0" type="line"/>
+      <point x="664.4117647058823" y="0.0" type="line"/>
+      <point x="694.9607843137255" y="93.11764705882354" type="line"/>
+      <point x="303.6862745098039" y="93.11764705882354" type="line"/>
+      <point x="509.1372549019608" y="714.0" type="line"/>
+      <point x="102.0" y="714.0" type="line"/>
+      <point x="71.92156862745098" y="622.4509803921569" type="line"/>
+      <point x="364.7843137254902" y="622.4509803921569" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/05/08 13:57:35</string>
+    </dict>
+  </lib>
+</glyph>

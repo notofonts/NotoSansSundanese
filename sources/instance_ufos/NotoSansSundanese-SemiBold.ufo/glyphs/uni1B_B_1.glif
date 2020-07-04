@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1BB1" format="2">
+  <advance width="819.3137254901961"/>
+  <unicode hex="1BB1"/>
+  <outline>
+    <contour>
+      <point x="80.01960784313725" y="0.0" type="line"/>
+      <point x="665.9803921568628" y="0.0" type="line"/>
+      <point x="787.6666666666666" y="370.21568627450984" type="line"/>
+      <point x="455.6666666666667" y="370.21568627450984" type="line"/>
+      <point x="401.52941176470586" y="204.41176470588235" type="line"/>
+      <point x="516.5882352941177" y="204.41176470588235" type="line"/>
+      <point x="533.0" y="249.49019607843138" type="line"/>
+      <point x="604.5294117647059" y="249.49019607843138" type="line"/>
+      <point x="562.2941176470588" y="122.92156862745098" type="line"/>
+      <point x="267.70588235294116" y="122.92156862745098" type="line"/>
+      <point x="422.6078431372549" y="591.0784313725491" type="line"/>
+      <point x="554.7058823529412" y="591.0784313725491" type="line"/>
+      <point x="575.0588235294117" y="537.7647058823529" type="line"/>
+      <point x="714.0784313725491" y="537.7647058823529" type="line"/>
+      <point x="654.5490196078431" y="714.0" type="line"/>
+      <point x="104.33333333333333" y="714.0" type="line"/>
+      <point x="44.607843137254896" y="530.0784313725491" type="line"/>
+      <point x="168.54901960784315" y="530.0784313725491" type="line"/>
+      <point x="188.54901960784315" y="591.0784313725491" type="line"/>
+      <point x="275.7450980392157" y="591.0784313725491" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/21 15:03:26</string>
+    </dict>
+  </lib>
+</glyph>

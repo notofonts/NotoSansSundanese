@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B9E" format="2">
+  <advance width="831.5882352941177"/>
+  <unicode hex="1B9E"/>
+  <outline>
+    <contour>
+      <point x="489.4117647058824" y="0.0" type="line"/>
+      <point x="635.8235294117648" y="0.0" type="line"/>
+      <point x="727.0" y="274.078431372549" type="line"/>
+      <point x="829.1764705882352" y="274.078431372549" type="line"/>
+      <point x="870.0" y="397.0" type="line"/>
+      <point x="767.8235294117648" y="397.0" type="line"/>
+      <point x="873.8235294117648" y="714.0" type="line"/>
+      <point x="515.9803921568628" y="714.0" type="line"/>
+      <point x="475.156862745098" y="591.0784313725491" type="line"/>
+      <point x="688.5882352941177" y="591.0784313725491" type="line"/>
+      <point x="622.4117647058823" y="397.0" type="line"/>
+      <point x="511.5882352941176" y="397.0" type="line"/>
+      <point x="470.7647058823529" y="274.078431372549" type="line"/>
+      <point x="581.5882352941177" y="274.078431372549" type="line"/>
+    </contour>
+    <contour>
+      <point x="64.54901960784314" y="0.0" type="line"/>
+      <point x="210.9607843137255" y="0.0" type="line"/>
+      <point x="302.1372549019608" y="274.078431372549" type="line"/>
+      <point x="404.3137254901961" y="274.078431372549" type="line"/>
+      <point x="445.1372549019608" y="397.0" type="line"/>
+      <point x="342.96078431372547" y="397.0" type="line"/>
+      <point x="448.96078431372547" y="714.0" type="line"/>
+      <point x="90.01960784313725" y="714.0" type="line"/>
+      <point x="49.19607843137255" y="591.0784313725491" type="line"/>
+      <point x="263.72549019607845" y="591.0784313725491" type="line"/>
+      <point x="197.54901960784315" y="397.0" type="line"/>
+      <point x="87.27450980392157" y="397.0" type="line"/>
+      <point x="46.450980392156865" y="274.078431372549" type="line"/>
+      <point x="156.72549019607843" y="274.078431372549" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/06/24 10:10:08</string>
+    </dict>
+  </lib>
+</glyph>
